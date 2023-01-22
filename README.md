@@ -18,7 +18,7 @@ Uma página interativa para registrar os seus hábitos do dia a dia.
 
 <br>
 
-<p aling="center">
+<p align="center">
   <img alt="Projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
@@ -32,11 +32,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A PageLinks é uma página web para personalizar os links, por exemplo redes sociais, unificando todos em um só link.
+O Habits é uma página web para registrar seus habitos, por exemplo estudar, trabalhar, exercicios, futebol, etc.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/j8Fe7AGabn3hX2OCVLTB3i/Rocket-Links---Maratona-Explorer-2.0-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🔑 Licença
 
@@ -52,8 +52,8 @@ Esse projeto está sob a licença MIT.
  <sub><b>Sergio Silva Lima</b></sub></a> <a href="https://app.rocketseat.com.br/me/sergio-silva-lima-1567192156" title="Rocketseat">🚀
 </a>
 
-Desenvolvido por 
-Sergio SLima 💪 
+Desenvolvido por
+Sergio SLima 💪
 Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
